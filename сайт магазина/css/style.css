@@ -1,0 +1,1987 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.beginning{
+      background: #0385ff;
+      height: 35px;
+}
+.beginning-p{
+    position: absolute;
+    margin-left: 450px;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Fasthand', cursive;
+    cursor: pointer;
+}
+.beginning-p2{
+    position: absolute;
+    margin-left: 710px;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Fasthand', cursive;
+    cursor: pointer;
+}
+.beginning-p3{
+    position: absolute;
+    margin-left: 820px;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Fasthand', cursive;
+    cursor: pointer;
+}
+.beginning-p4{
+    position: absolute;
+    margin-left: 1070px;
+    color: #fff;
+    margin-top: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.beginning-2{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.beginning2-p{
+    margin-left: 270px;
+    margin-top: -60px; 
+    font-size: 16px;
+    color: #0054A6;
+}
+.input-beginning{
+    margin-left: 490px;
+    height: 55px;
+    margin-top: -65px;
+    position: absolute;
+    border-radius: 17px;
+    width: 700px;  
+    font-size: 25px;
+    color: grey;
+    border-color: #0385ff;
+    outline:none;
+    padding-left: 20px;
+}
+.beginning2-img{
+    position: absolute;
+    margin-left: 1165px;
+    margin-top: -50px;
+    cursor: pointer;
+}
+.beginning2-img2{
+    margin-left: 1350px;
+    margin-top: -55px;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+.beginning2-img3{
+    margin-left: 1420px;
+    margin-top: -55px;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+.beginning2-img4{
+    margin-left: 1480px;
+    margin-top: -55px;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+.beginning2-p2{
+    margin-left: 1540px;
+    color: #0054A6;
+    font-size: 27px;
+    position: absolute;
+    margin-top: -50px;
+    cursor: pointer;
+}
+
+.content-menu{
+    position: relative;
+    width: 200px;
+    height: 50px;
+}
+
+.menu_gap {
+    position: absolute;
+    display: none;
+}
+.content-menu:hover .menu_gap{
+    display: block;
+}
+
+/* меню которое показывает при наведение*/
+.catalog-title{
+    margin-left: 500px;
+    background: #fff1f1;
+    padding-right: 110px;
+    padding-left: 20px;
+    font-size: 20px;
+    color: #0054A6;    
+    font-family: 'Fasthand', cursive;
+    cursor: pointer;
+}
+.catalog-p1:hover{
+    color: #0385ff;
+}
+.catalog-p2:hover{
+    color: #0385ff;
+}
+.catalog-p3:hover{
+    color: #0385ff;
+}
+.catalog-p4:hover{
+    color: #0385ff;
+}
+.catalog-p5:hover{
+    color: #0385ff;
+}
+.catalog-p6:hover{
+    color: #0385ff;
+}
+.catalog-p7:hover{
+    color: #0385ff;
+}
+.catalog-p8:hover{
+    color: #0385ff;
+}
+.catalog-p9:hover{
+    color: #0385ff;
+}
+.catalog-p10:hover{
+    color: #0385ff;
+}
+.catalog-p11:hover{
+    color: #0385ff;
+}
+.catalog-p12:hover{
+    color: #0385ff;
+}
+.catalog-p13:hover{
+    color: #0385ff;
+}
+.catalog-p14:hover{
+    color: #0385ff;
+}
+.men-p1:hover{
+    color: #0385ff;
+}
+.men-p2:hover{
+    color: #0385ff;
+}
+.men-p3:hover{
+    color: #0385ff;
+}
+.men-p4:hover{
+    color: #0385ff;
+}.men-p5:hover{
+    color: #0385ff;
+}
+.men-p6:hover{
+    color: #0385ff;
+}.men-p7:hover{
+    color: #0385ff;
+}
+.men-p8:hover{
+    color: #0385ff;
+}
+.men-p9:hover{
+    color: #0385ff;
+}
+.men-p10:hover{
+    color: #0385ff;
+}
+.men-p11:hover{
+    color: #0385ff;
+}
+.woman-p1:hover{
+    color: #0385ff;
+}
+.woman-p2:hover{
+    color: #0385ff;
+}
+.woman-p3:hover{
+    color: #0385ff;
+}
+.woman-p4:hover{
+    color: #0385ff;
+}
+.woman-p5:hover{
+    color: #0385ff;
+}
+.woman-p6:hover{
+    color: #0385ff;
+}
+.woman-p7:hover{
+    color: #0385ff;
+}
+.woman-p8:hover{
+    color: #0385ff;
+}
+.woman-p9:hover{
+    color: #0385ff;
+}
+.woman-p10:hover{
+    color: #0385ff;
+}
+.woman-p11:hover{
+    color: #0385ff;
+}
+.woman-p12:hover{
+    color: #0385ff;
+}
+.woman-p13:hover{
+    color: #0385ff;
+}
+.woman-p14:hover{
+    color: #0385ff;
+}
+.discounts-p1:hover{
+    color: #0385ff;
+}
+.discounts-p2:hover{
+    color: #0385ff;
+}
+.discounts-p3:hover{
+    color: #0385ff;
+}
+.discounts-p4:hover{
+    color: #0385ff;
+}
+.discounts-p5:hover{
+    color: #0385ff;
+}
+.discounts-p6:hover{
+    color: #0385ff;
+}
+.discounts-p7:hover{
+    color: #0385ff;
+}
+.men-title{
+    margin-left: 700px;
+    background: #fff1f1;
+    padding-right: 110px;
+    padding-left: 20px;
+    font-size: 20px;
+    color: #0054A6;    
+    font-family: 'Fasthand', cursive;
+    cursor: pointer;    
+}
+.woman-title{
+    margin-left: 940px;
+    background: #fff1f1;
+    padding-right: 110px;
+    padding-left: 20px;
+    font-size: 20px;
+    color: #0054A6;    
+    font-family: 'Fasthand', cursive;
+    cursor: pointer;  
+}
+.discounts-title{
+    margin-left: 1180px;
+    background: #fff1f1;
+    padding-right: 110px;
+    padding-left: 20px;
+    font-size: 20px;
+    color: #0054A6;    
+    font-family: 'Fasthand', cursive;
+    cursor: pointer;      
+}
+/* конец мeню*/
+.catalog{
+    margin-top: 50px;
+    margin-left: 500px;
+    font-family: 'Fasthand', cursive;
+    font-size: 25px;
+    color: #0054A6;
+    cursor: pointer;
+}
+.catalog-img{
+    position: absolute;
+    margin-left: 130px;
+    margin-top: -30px;
+}
+.men{
+    margin-left: 700px;
+    margin-top: -50px;
+    font-family: 'Fasthand', cursive;
+    font-size: 25px;
+    color: #0054A6;
+    cursor: pointer;
+}
+.men-img{
+    position: absolute;
+    margin-left: 165px;
+    margin-top: -30px;
+}
+.woman{
+    margin-left: 940px;
+    margin-top: -50px;
+    font-family: 'Fasthand', cursive;
+    font-size: 25px;
+    color: #0054A6;
+    cursor: pointer;
+}
+.woman-img{
+    position: absolute;
+    margin-left: 168px;
+    margin-top: -30px;    
+}
+.discounts{
+    margin-left: 1180px;
+    margin-top: -50px;
+    font-family: 'Fasthand', cursive;
+    font-size: 25px;
+    color: #0054A6;  
+    cursor: pointer;  
+}
+.discounts-img{
+    position: absolute;
+    margin-left: 115px;
+    margin-top: -30px;       
+}
+.deraptment-title{
+    margin-top: 30px;
+    margin-left: 770px;
+    font-size: 30px;
+    color: #0054A6;
+    font-family: 'Fasthand', cursive;
+   
+}
+.deraptment-img1{
+    margin-top: 30px;
+    width: 700px;
+    height: 500px;
+    margin-left: 200px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.deraptment-img1:hover{
+    box-shadow: 0px 0px 15px 10px #0054A6;
+}
+.deraptment-img2:hover{
+    box-shadow: 0px 0px 15px 10px #0054A6;
+}
+.deraptment-img3:hover{
+    box-shadow: 0px 0px 15px 10px #0054A6;
+}
+.deraptment-img4:hover{
+    box-shadow: 0px 0px 15px 10px #0054A6;
+}
+.deraptment-img2{
+    cursor: pointer;
+    margin-left:10px;
+    width: 700px;
+    height: 500px;
+    border-radius: 10px;
+}
+.deraptment-title2{
+    position: absolute;
+    margin-left: 595px;
+    margin-top: -66px;
+    font-size: 50px;
+    color:#0054A6;
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.deraptment-title3{
+    position: absolute;
+    margin-left: 916px;
+    margin-top: -66px;
+    font-size: 50px;
+    color:#0054A6;
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.deraptment-img3{
+    cursor: pointer;
+    margin-left:200px;
+    margin-top: 0px;
+    width: 700px;
+    height: 500px; 
+    border-radius: 10px;
+}
+.deraptment-img4{
+    cursor: pointer;
+    margin-left:15px;
+    margin-top: 10px;
+    width: 700px;
+    height: 500px; 
+    border-radius: 10px;  
+}
+.deraptment-title4{
+    position: absolute;
+    margin-left: 536px;
+    margin-top: -67px;
+    font-size: 50px;
+    color:#0054A6;
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.deraptment-title5{
+    position: absolute;
+    margin-left: 917px;
+    margin-top: -67px;
+    font-size: 50px;
+    color:#0054A6;
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.banner img{
+    margin-top: 40px;
+    width: 1798px;
+    cursor: pointer;
+}
+.banner-2 img{
+    margin-top: -5px;
+    width: 1798px;
+    cursor: pointer;    
+}
+.favourites-title{
+    cursor: pointer;
+    margin-top: 70px;
+    margin-left: 70px;
+    color: rgba(7, 0, 0, 0.644);
+    font-family: 'Fasthand', cursive;
+    font-size: 30px;
+}
+.favourites-img1{
+    cursor: pointer;
+    width: 319px;
+    margin-top: 10px;
+    margin-left: 55px;
+}
+.favourites-title2{
+    cursor: pointer;
+    position: absolute;
+    margin-left: 90px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;
+}
+.favourites-p{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top: 70px;
+    margin-left: 160px
+}
+.favourites-btn{
+    position: absolute;
+    margin-top: 565px;
+    margin-left: -227px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive;
+
+}
+.favourites-btn:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.favourites-img2{
+    cursor: pointer;
+    width: 319px;
+    margin-top: 10px;
+    margin-left: 15px;    
+}
+.favourites-title3{
+    cursor: pointer;
+    position: absolute;
+    margin-left: 440px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.favourites-p2{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top: 70px;
+    margin-left: 500px;
+}
+.favourites-btn2{
+    position: absolute;
+    margin-top: 565px;
+    margin-left: -220px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive;    
+}
+.favourites-btn2:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.favourites-img3{
+    cursor: pointer;
+    height: 425px;
+    width: 380px;
+    margin-top: 10px;  
+    margin-left: -10px;
+}
+.favourites-btn3{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 563px;
+    margin-left: -245px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive;     
+}
+.favourites-btn3:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.favourites-title4{
+    cursor: pointer;
+    margin-top: 0px;
+    position: absolute;
+    margin-left: 820px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;       
+}
+.favourites-p3{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top: 70px;
+    margin-left: 850px;    
+}
+.favourites-img4{
+    cursor: pointer;
+    width: 320px;
+    margin-top: 10px;
+    margin-left: -14px;      
+}
+.favourites-btn4{
+    position: absolute;
+    margin-top: 560px;
+    margin-left: -214px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive;     
+}
+.favourites-btn4:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.favourites-title5{
+    cursor: pointer;
+    margin-top: 0px;
+    position: absolute;
+    margin-left: 1110px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;       
+}
+.favourites-p4{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top: 70px;
+    margin-left: 1185px;    
+}
+.favourites-img5{
+    cursor: pointer;
+    width: 320px;
+    margin-top: 10px;
+    margin-left: 10px;      
+}
+.favourites-btn5{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 560px;
+    margin-left: -214px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive;     
+}
+.favourites-btn5:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.favourites-title6{
+    cursor: pointer;
+    margin-top: 0px;
+    position: absolute;
+    margin-left: 1450px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;       
+}
+.favourites-p5{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top: 70px;
+    margin-left: 1515px;    
+}
+/* начало каталога-слайдера*/
+.catalog-title1-1{
+    margin-top: 240px;
+    margin-left: 60px;
+    color: rgba(7, 0, 0, 0.644);
+    font-family: 'Fasthand', cursive;
+    font-size: 30px;
+    cursor: pointer;
+}
+.catalog-btn-prev{
+    font-size: 35px;
+    margin-left:1570px;
+    margin-top: -490px;
+    position: absolute;
+    cursor: pointer;
+    color: #0385ff;
+    background: #0054A6; 
+    width: 60px;
+    text-align: center;
+}
+.catalog-btn-prev:hover{
+    color: #0054A6;
+    transition: 0.60s;   
+    background: #0385ff; 
+}
+
+.catalog-btn-next:hover{
+    color: #0054A6;
+    transition: 0.60s;    
+    background: #0385ff; 
+}
+.catalog-btn-next{
+    font-size: 35px;
+    margin-left:1640px;
+    margin-top: -490px;
+    position: absolute;
+    cursor: pointer;
+    color: #0385ff; 
+    background: #0054A6;  
+    width: 60px;
+    text-align: center;
+}
+.catalog-img1-1{
+    cursor: pointer;
+    width: 319px;
+    margin-top: 10px;
+    margin-left: 42px;
+    position: absolute;
+}
+.catalog-img1-2{
+    cursor: pointer;
+    width: 319px;
+    margin-top: 10px;
+    margin-left: 380px; 
+    position: absolute;
+}
+.catalog-img1-3{
+    cursor: pointer;
+    height: 423px;
+    width: 330px;
+    margin-top: 10px;  
+    margin-left: 720px;
+}
+.catalog-img1-4{
+    cursor: pointer;
+    width: 320px;
+    margin-top: 10px;
+    margin-left: 20px;  
+}
+.catalog-img1-5{
+    cursor: pointer;
+    width: 320px;
+    margin-top: 10px;
+    margin-left: 20px; 
+}
+.catalog-title1-2{
+    cursor: pointer;
+    margin-top: 440px;
+    position: absolute;
+    margin-left: 100px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-1{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 145px;
+}
+.catalog-btn1-1{ 
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 145px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive;       
+}
+.catalog-btn1-1:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-title1-3{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 440px;
+    font-size: 25px;
+    text-align: center;
+    color: gray    
+}
+.catalog-p1-2{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 480px;
+}
+.catalog-btn1-2{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 481px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-2:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-title1-4{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 790px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-3{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 840px;
+}
+.catalog-btn1-3{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 842px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-3:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-title1-5{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1120px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-4{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 1183px;
+}
+.catalog-btn1-4{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 1180px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-4:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-title1-6{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1475px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-5{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 1510px
+}
+.catalog-btn1-5{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 1510px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-5:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+/* второй слайд*/
+.catalog-title1-7{
+    cursor: pointer;
+    margin-top: 440px;
+    position: absolute;
+    margin-left: 100px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-6{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 140px;
+}
+.catalog-btn1-6{ 
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 140px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive;       
+}
+.catalog-btn1-6:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-title1-8{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 440px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-7{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 488px;
+}
+.catalog-btn1-7{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 490px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-7:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-title1-9{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 775px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;  
+}
+.catalog-p1-8{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 837px;
+}
+.catalog-btn1-8{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 832px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-8:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-title1-10{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1135px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-9{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 1168px;
+}
+.catalog-btn1-9{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 1167px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-9:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-img1-6{
+    cursor: pointer;
+    width: 310px;
+    margin-top: 10px;
+    margin-left: 20px;    
+}
+.catalog-title1-11{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1480px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-10{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 1515px;
+}
+.catalog-btn1-10{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 1515px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-10:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+/*третий слайд*/
+.catalog-p1-11{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 147px;
+}
+.catalog-btn1-11{ 
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 150px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive;       
+}
+.catalog-btn1-11:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-title1-12{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 430px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;   
+}
+.catalog-p1-12{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 495px;
+}
+.catalog-btn1-12{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 492px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-12:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+
+.catalog-title1-13{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 800px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-13{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 835px;
+}
+.catalog-btn1-13{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 832px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-13:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-img1-13{
+    cursor: pointer;
+    height: 423px;
+    width: 340px;
+    margin-top: 10px;  
+    margin-left: 720px;    
+}
+.catalog-title1-14{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1140px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-14{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 1180px;
+}
+.catalog-btn1-14{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 1178px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-14:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-img1-14{
+    cursor: pointer;
+    width: 280px;
+    margin-top: 10px;
+    margin-left: 35px;    
+}
+.catalog-title1-15{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1460px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;   
+}
+.catalog-p1-15{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 1515px;
+}
+.catalog-btn1-15{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 1510px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-15:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-img1-12{
+    cursor: pointer;
+    width: 320px;
+    margin-top: 10px;
+    margin-left: 5px;      
+}
+/*четвертый слайдер*/
+.catalog-title1-16{
+    cursor: pointer;
+    margin-top: 440px;
+    position: absolute;
+    margin-left: 95px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-16{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 157px;
+}
+.catalog-btn1-16{ 
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 155px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive;       
+}
+.catalog-btn1-16:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-title1-17{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 445px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-17{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 480px;
+}
+.catalog-btn1-17{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 480px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-17:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-img1-15{
+    cursor: pointer;
+    height: 423px;
+    width: 320px;
+    margin-top: 10px;  
+    margin-left: 715px;    
+}
+
+.catalog-btn1-13:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-img1-13{
+    cursor: pointer;
+    height: 423px;
+    width: 340px;
+    margin-top: 10px;  
+    margin-left: 720px;    
+}
+.catalog-title1-18{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1120px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-18{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 1175px;
+}
+.catalog-btn1-18{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 1173px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-18:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-img1-16{
+    cursor: pointer;
+    width: 290px;
+    margin-top: 10px;
+    margin-left: 40px;      
+}
+.catalog-img1-17{
+    cursor: pointer;
+    width: 318px;
+    margin-top: 10px;
+    margin-left: 35px;    
+}
+.catalog-title1-19{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1455px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;   
+}
+.catalog-p1-19{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 1522px;
+}
+.catalog-btn1-19{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 1524px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-19:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+/*пятый слайд*/
+.catalog-title1-20{
+    cursor: pointer;
+    margin-top: 440px;
+    position: absolute;
+    margin-left: 105px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-20{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 140px;
+}
+.catalog-btn1-20{ 
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 140px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive;       
+}
+.catalog-btn1-20:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-img1-18{
+    cursor: pointer;
+    height: 423px;
+    width: 290px;
+    margin-top: 10px;  
+    margin-left: 740px;    
+}
+.catalog-title1-21{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 785px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-21{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 835px;
+}
+.catalog-btn1-21{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 832px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-21:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-title1-22{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1125px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-22{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 1188px;
+}
+.catalog-btn1-22{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 1187px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-22:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-img1-19{
+    cursor: pointer;
+    width: 320px;
+    margin-top: 10px;
+    margin-left: 40px;      
+}
+.catalog-img1-20{
+    cursor: pointer;
+    width: 305px;
+    margin-top: 10px;
+    margin-left: 25px;    
+}
+.catalog-title1-23{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1475px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-23{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 1522px;
+}
+.catalog-btn1-23{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 1524px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-23:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+/* шестой слайд*/
+.catalog-img1-21{
+    cursor: pointer;
+    height: 425px;
+    width: 290px;
+    margin-top: 10px;
+    margin-left: 400px; 
+    position: absolute;
+}
+.catalog-title1-24{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 440px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-24{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 490px;
+}
+.catalog-btn1-24{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 490px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-24:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-img1-22{
+    cursor: pointer;
+    height: 423px;
+    width: 310px;
+    margin-top: 10px;  
+    margin-left: 730px;    
+}
+.catalog-title1-25{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 780px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-25{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 842px;
+}
+.catalog-btn1-25{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 842px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-25:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-title1-26{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1120px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-26{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 1170px;
+}
+.catalog-btn1-26{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 1170px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-26:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-img1-23{
+    cursor: pointer;
+    width: 310px;
+    margin-top: 10px;
+    margin-left:20px;      
+}
+.catalog-img1-24{
+    cursor: pointer;
+    width: 303px;
+    margin-top: 10px;
+    margin-left: 35px;    
+}
+.catalog-title1-27{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1435px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-27{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 1515px;
+}
+.catalog-btn1-27{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 1513px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-27:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+/*седьмой слайд*/
+.catalog-img1-25{
+    cursor: pointer;
+    height: 425px;
+    width: 290px;
+    margin-top: 10px;
+    margin-left: 60px;
+    position: absolute;
+}
+.catalog-title1-28{
+    cursor: pointer;
+    margin-top: 440px;
+    position: absolute;
+    margin-left: 110px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-28{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 160px;
+}
+.catalog-btn1-28{ 
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 157px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive;       
+}
+.catalog-btn1-28:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-img1-26{
+    cursor: pointer;
+    height: 425px;
+    width: 310px;
+    margin-top: 10px;
+    margin-left: 390px; 
+    position: absolute;
+}
+.catalog-title1-29{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 435px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-29{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 495px;
+}
+.catalog-btn1-29{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 495px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-29:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-img1-27{
+    cursor: pointer;
+    height: 423px;
+    width: 310px;
+    margin-top: 10px;  
+    margin-left: 725px;    
+}
+.catalog-title1-30{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 790px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-30{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 840px;
+}
+.catalog-btn1-30{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 840px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-30:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-title1-31{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1100px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-31{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 1178px;
+}
+.catalog-btn1-31{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 1177px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-31:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
+.catalog-img1-28{
+    cursor: pointer;
+    width: 300px;
+    margin-top: 10px;
+    margin-left:35px;      
+}
+.catalog-img1-29{
+    cursor: pointer;
+    width: 312px;
+    margin-top: 10px;
+    margin-left: 35px;    
+}
+.catalog-title1-32{
+    margin-top: 440px;
+    cursor: pointer;
+    position: absolute;
+    margin-left: 1470px;
+    font-size: 25px;
+    text-align: center;
+    color: gray;    
+}
+.catalog-p1-32{
+    cursor: pointer;
+    position:absolute;
+    font-size: 30px;
+    margin-top:515px;
+    margin-left: 1515px;
+}
+.catalog-btn1-32{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 1513px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    background: #0385ff;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Fasthand', cursive; 
+}
+.catalog-btn1-32:hover{
+    background: #0054A6;
+    transition: 0.60s;
+}
